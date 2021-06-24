@@ -1,6 +1,6 @@
 {
   "name": "cryptic",
-  "homepage" : "https://monim143.github.io/react-cryptic/",
+  "homepage" : "http://monim143.github.io/react-cryptic",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
