@@ -1,0 +1,6 @@
+
+// set website url in package.json
+"homepage": "http://mahamidandsons.com/react-cryptic"
+
+// set basename in BrowserRouter
+basename={'/react-cryptic'} 

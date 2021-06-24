@@ -1,0 +1,88 @@
+/**
+ * @Main scss for (Template/Project Name)
+ * @project     - Project Name
+ * @author      - 
+ * @created_by  - kawsar bin siraj
+ * @created_at  - 
+ * @modified_by -
+ */
+
+
+
+/* reset, root */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #fff;
+}
+
+:root {
+    --clr-green: #6CD086;
+    --clr-deep-blue: #1F2C8C;
+    --clr-deep-blue-dark: #2e4d8b;
+    --clr-deep-blue-light: #C9D0FF;
+}
+
+@media (min-width:1400px) {
+    .container {
+        max-width: 1140px !important;
+    }
+}
+
+/* reset, root - END */
+
+
+
+
+/* helper-classes */
+.section-padding {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.bg-clr-green {
+    background-color: var(--clr-green) !important;
+}
+
+.bg-clr-deep-blue {
+    background-color: var(--clr-deep-blue) !important;
+}
+
+.bg-clr-deep-blue-light {
+    background-color: var(--clr-deep-blue-light) !important;
+}
+
+.bg-clr-deep-blue-dark {
+    background-color: var(--clr-deep-blue-dark) !important;
+}
+
+.btn-cryptic {
+    transition: all .3s;
+    font-weight: 500 !important;
+
+    &.bg-clr-green {
+        &:hover {
+            background-color: var(--clr-deep-blue-light) !important;
+        }
+    }
+
+    &.bg-clr-deep-blue-light {
+        &:hover {
+            background-color: var(--clr-green) !important;
+        }
+    }
+
+    &.bg-clr-deep-blue-dark {
+        &:hover {
+            background-color: var(--clr-green) !important;
+        }
+    }
+}
+
+/* helper-classes - END */
