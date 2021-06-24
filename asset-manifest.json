@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-cryptic/static/css/main.84213e6d.chunk.css",
+    "main.js": "/react-cryptic/static/js/main.86d046ce.chunk.js",
+    "main.js.map": "/react-cryptic/static/js/main.86d046ce.chunk.js.map",
+    "runtime-main.js": "/react-cryptic/static/js/runtime-main.5fac7c3b.js",
+    "runtime-main.js.map": "/react-cryptic/static/js/runtime-main.5fac7c3b.js.map",
+    "static/css/2.9851221a.chunk.css": "/react-cryptic/static/css/2.9851221a.chunk.css",
+    "static/js/2.d41b104d.chunk.js": "/react-cryptic/static/js/2.d41b104d.chunk.js",
+    "static/js/2.d41b104d.chunk.js.map": "/react-cryptic/static/js/2.d41b104d.chunk.js.map",
+    "static/js/3.e5e04b92.chunk.js": "/react-cryptic/static/js/3.e5e04b92.chunk.js",
+    "static/js/3.e5e04b92.chunk.js.map": "/react-cryptic/static/js/3.e5e04b92.chunk.js.map",
+    "index.html": "/react-cryptic/index.html",
+    "static/css/2.9851221a.chunk.css.map": "/react-cryptic/static/css/2.9851221a.chunk.css.map",
+    "static/css/main.84213e6d.chunk.css.map": "/react-cryptic/static/css/main.84213e6d.chunk.css.map",
+    "static/js/2.d41b104d.chunk.js.LICENSE.txt": "/react-cryptic/static/js/2.d41b104d.chunk.js.LICENSE.txt",
+    "static/media/carousel-1.c85b1539.png": "/react-cryptic/static/media/carousel-1.c85b1539.png",
+    "static/media/coinOffer.f2d0a339.png": "/react-cryptic/static/media/coinOffer.f2d0a339.png",
+    "static/media/digital-currency.7ed8fa21.png": "/react-cryptic/static/media/digital-currency.7ed8fa21.png",
+    "static/media/footerBg.6efdbbca.jpg": "/react-cryptic/static/media/footerBg.6efdbbca.jpg",
+    "static/media/herobanner.65da9802.png": "/react-cryptic/static/media/herobanner.65da9802.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fac7c3b.js",
+    "static/css/2.9851221a.chunk.css",
+    "static/js/2.d41b104d.chunk.js",
+    "static/css/main.84213e6d.chunk.css",
+    "static/js/main.86d046ce.chunk.js"
+  ]
+}
